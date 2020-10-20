@@ -8,3 +8,5 @@ the user input will be validated using javascript parse method that returns true
 otherwiswe returns false
 
 when result is true A JAVA POJO FILE WILL BE CREATED WHICH CONSIST OF JSON DATA
+
+A download button has been provided to download java file which hasnot implemented cent percent
